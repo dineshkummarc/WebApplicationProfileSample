@@ -1,0 +1,5 @@
+C:\Users\Lee\Desktop\WebApplicationProfileSample\LD.Sample.BLL\bin\Debug\LD.Sample.BLL.dll
+C:\Users\Lee\Desktop\WebApplicationProfileSample\LD.Sample.BLL\bin\Debug\LD.Sample.BLL.pdb
+C:\Users\Lee\Desktop\WebApplicationProfileSample\LD.Sample.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lee\Desktop\WebApplicationProfileSample\LD.Sample.BLL\obj\Debug\LD.Sample.BLL.dll
+C:\Users\Lee\Desktop\WebApplicationProfileSample\LD.Sample.BLL\obj\Debug\LD.Sample.BLL.pdb

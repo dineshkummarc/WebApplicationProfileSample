@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LD.Sample.WAP", "LD.Sample.WAP\LD.Sample.WAP.csproj", "{71DB9A33-D322-48FD-8AD8-4A84BB29F75E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LD.Sample.BLL", "LD.Sample.BLL\LD.Sample.BLL.csproj", "{676105FE-C4CA-4CB7-AC2F-E35E57B24DD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71DB9A33-D322-48FD-8AD8-4A84BB29F75E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DB9A33-D322-48FD-8AD8-4A84BB29F75E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DB9A33-D322-48FD-8AD8-4A84BB29F75E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DB9A33-D322-48FD-8AD8-4A84BB29F75E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676105FE-C4CA-4CB7-AC2F-E35E57B24DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676105FE-C4CA-4CB7-AC2F-E35E57B24DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676105FE-C4CA-4CB7-AC2F-E35E57B24DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676105FE-C4CA-4CB7-AC2F-E35E57B24DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

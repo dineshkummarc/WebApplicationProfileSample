@@ -1,0 +1,7 @@
+C:\Users\Lee\Desktop\WebApplicationProfileSample\LD.Sample.WAP\bin\LD.Sample.WAP.dll
+C:\Users\Lee\Desktop\WebApplicationProfileSample\LD.Sample.WAP\bin\LD.Sample.WAP.pdb
+C:\Users\Lee\Desktop\WebApplicationProfileSample\LD.Sample.WAP\bin\LD.Sample.BLL.dll
+C:\Users\Lee\Desktop\WebApplicationProfileSample\LD.Sample.WAP\bin\LD.Sample.BLL.pdb
+C:\Users\Lee\Desktop\WebApplicationProfileSample\LD.Sample.WAP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lee\Desktop\WebApplicationProfileSample\LD.Sample.WAP\obj\Debug\LD.Sample.WAP.dll
+C:\Users\Lee\Desktop\WebApplicationProfileSample\LD.Sample.WAP\obj\Debug\LD.Sample.WAP.pdb
